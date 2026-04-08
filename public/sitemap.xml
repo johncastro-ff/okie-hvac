@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Core pages -->
+  <url>
+    <loc>https://okiehvac.com/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://okiehvac.com/about</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okiehvac.com/contact</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okiehvac.com/service-areas</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okiehvac.com/services</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Service silos -->
+  <url>
+    <loc>https://okiehvac.com/services/hvac-contractor</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://okiehvac.com/services/air-conditioning-contractor</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://okiehvac.com/services/air-conditioning-repair-service</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://okiehvac.com/services/heating-contractor</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://okiehvac.com/services/furnace-repair-service</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://okiehvac.com/services/mechanical-contractor</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- HVAC Contractor service pages -->
+  <url><loc>https://okiehvac.com/services/hvac-contractor/ac-system-maintenance</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://okiehvac.com/services/hvac-contractor/ac-system-repair</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://okiehvac.com/services/hvac-contractor/hvac-system-maintenance</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://okiehvac.com/services/hvac-contractor/hvac-system-repair</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://okiehvac.com/services/hvac-contractor/install-ac</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://okiehvac.com/services/hvac-contractor/repair-hvac</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://okiehvac.com/services/hvac-contractor/emergency-hvac-repair</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://okiehvac.com/services/hvac-contractor/hvac-maintenance-plan</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+
+  <!-- AC Contractor service pages -->
+  <url><loc>https://okiehvac.com/services/air-conditioning-contractor/ac-installation</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://okiehvac.com/services/air-conditioning-contractor/ac-tune-up</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://okiehvac.com/services/air-conditioning-contractor/ductless-mini-split-installation</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+
+  <!-- AC Repair service pages -->
+  <url><loc>https://okiehvac.com/services/air-conditioning-repair-service/ac-not-cooling-repair</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://okiehvac.com/services/air-conditioning-repair-service/ac-tune-up-repair</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://okiehvac.com/services/air-conditioning-repair-service/refrigerant-recharge</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+
+  <!-- Heating Contractor service pages -->
+  <url><loc>https://okiehvac.com/services/heating-contractor/heating-system-installation</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://okiehvac.com/services/heating-contractor/heat-pump-installation</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://okiehvac.com/services/heating-contractor/furnace-installation</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://okiehvac.com/services/heating-contractor/ductless-heating-services</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+
+  <!-- Furnace Repair service pages -->
+  <url><loc>https://okiehvac.com/services/furnace-repair-service/heating-system-repair</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://okiehvac.com/services/furnace-repair-service/heating-system-maintenance</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://okiehvac.com/services/furnace-repair-service/furnace-tune-up</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://okiehvac.com/services/furnace-repair-service/heat-pump-repair</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://okiehvac.com/services/furnace-repair-service/heater-not-working-repair</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+
+  <!-- Mechanical Contractor service pages -->
+  <url><loc>https://okiehvac.com/services/mechanical-contractor/hvac-duct-vent-installation</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://okiehvac.com/services/mechanical-contractor/hvac-duct-vent-repair</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://okiehvac.com/services/mechanical-contractor/hvac-duct-vent-cleaning</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://okiehvac.com/services/mechanical-contractor/thermostat-installation</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://okiehvac.com/services/mechanical-contractor/thermostat-repair</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://okiehvac.com/services/mechanical-contractor/indoor-air-quality</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+
+</urlset>
