@@ -95,7 +95,7 @@ const TestimonialsSection = () => {
             </span>
           </div>
           <a
-            href="https://www.google.com/maps/search/OKIE+HVAC+Systems+Stillwater+OK"
+            href="https://share.google/rzS8iyfhErOODQz4M"
             target="_blank"
             rel="noopener noreferrer"
             className="text-sm text-primary hover:underline font-medium"
