@@ -1,40 +1,40 @@
-import { Clock, DollarSign, Shield, Wrench, Users, Zap } from "lucide-react";
+import { Coffee, CheckCircle, Building2, Lightbulb, Phone, Star } from "lucide-react";
 
 const pillars = [
   {
-    icon: <Clock className="w-7 h-7" />,
-    title: "24/7 Emergency Response",
-    desc: "HVAC emergencies don't wait for business hours. Neither do we. Call any time — day, night, or weekend.",
+    icon: <Coffee className="w-7 h-7" />,
+    title: "We Call Ahead. Sometimes We Bring Donuts.",
+    desc: "Expect a heads-up before we show up, and don't be surprised if we pull up with donuts. You're our neighbors, not a ticket number — and we've never forgotten that.",
     accent: "cool",
   },
   {
-    icon: <DollarSign className="w-7 h-7" />,
-    title: "No Overtime Charges",
-    desc: "Our price stays flat no matter when you call. 2am on a Sunday costs the same as Monday at noon.",
+    icon: <CheckCircle className="w-7 h-7" />,
+    title: "We Don't Leave Until You're Comfortable.",
+    desc: "\"Done\" means your system is running right and you feel good about it — not just patched up so we can make the next call. We stay until the job's finished.",
     accent: "warm",
   },
   {
-    icon: <Shield className="w-7 h-7" />,
-    title: "Licensed & Fully Insured",
-    desc: "Every job is covered. You hire a licensed HVAC contractor — not a guy with a truck.",
+    icon: <Building2 className="w-7 h-7" />,
+    title: "Small Service Calls to New Shopping Malls.",
+    desc: "Every tech on our crew is skilled enough to run their own operation. Whether it's a quick residential fix or a full commercial build, we've got the experience to handle it — no tag-teaming required.",
     accent: "cool",
   },
   {
-    icon: <Wrench className="w-7 h-7" />,
-    title: "All Major Brands Serviced",
-    desc: "Trane, Carrier, Lennox, Rheem, Goodman — we work on them all and carry common parts on every truck.",
+    icon: <Lightbulb className="w-7 h-7" />,
+    title: "When Other Contractors Get Stumped, They Call Us.",
+    desc: "We know the code, the edge cases, and the fixes that leave other companies guessing. If your last contractor couldn't figure it out, give us a call — we hear that one all the time.",
     accent: "warm",
   },
   {
-    icon: <Users className="w-7 h-7" />,
-    title: "Locally Owned & Operated",
-    desc: "We live here too. Our reputation is built on Stillwater neighbors telling their neighbors to call us.",
+    icon: <Phone className="w-7 h-7" />,
+    title: "Professional Office That Takes Care of You.",
+    desc: "Our office runs as tight as the rest of the operation. You'll know your appointment window, get a real follow-up, and never have to chase us down for an answer. Someone always picks up.",
     accent: "cool",
   },
   {
-    icon: <Zap className="w-7 h-7" />,
-    title: "Upfront Pricing",
-    desc: "No surprises on your invoice. We give you the price before the work starts — and we stick to it.",
+    icon: <Star className="w-7 h-7" />,
+    title: "Once You Go OKIE, You Don't Go Back.",
+    desc: "Most of our work comes from repeat customers and the neighbors they send our way — that's not luck, that's The OKIE Standard. Once you see how we operate, you stop looking for a second opinion.",
     accent: "warm",
   },
 ];

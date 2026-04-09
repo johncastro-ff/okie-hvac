@@ -64,8 +64,8 @@ const CommercialSection = () => {
           <div className="lg:w-5/12 w-full">
             <div className="relative overflow-hidden rounded-2xl h-[420px] lg:h-[500px]">
               <img
-                src="https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?auto=format&fit=crop&w=900&q=80"
-                alt="Commercial HVAC installation"
+                src="/commercial_roof_mall.jpg"
+                alt="Commercial rooftop HVAC installation"
                 className="w-full h-full object-cover"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent" />

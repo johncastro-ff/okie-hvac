@@ -40,8 +40,8 @@ const FinancingSection = () => {
             {/* Right — Photo {REPLACE: tech walking customer through options at their home, tablet in hand} */}
             <div className="relative overflow-hidden rounded-2xl h-80 md:h-full min-h-[320px]">
               <img
-                src="https://images.unsplash.com/photo-1621905252507-b35492cc74b4?auto=format&fit=crop&w=800&q=80"
-                alt="HVAC technician explaining options to a homeowner"
+                src="/ac-not-working-1.jpg"
+                alt="Homeowner struggling with broken AC in the summer heat"
                 className="w-full h-full object-cover"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent" />

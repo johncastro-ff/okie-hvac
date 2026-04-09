@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { Phone, Menu, X, ChevronDown } from "lucide-react";
 import { PHONE, PHONE_HREF, BUSINESS_NAME, SERVICE_SILOS } from "@/data/services";
+
 import { useState } from "react";
 
 const Header = () => {
@@ -14,9 +15,9 @@ const Header = () => {
       {/* Announcement Bar */}
       <div className="bg-secondary text-white text-center py-2.5 px-4 text-sm font-semibold tracking-wide">
         Summer Ready? Schedule Your AC Tune-Up Before the Heat Hits —{" "}
-        <Link href="/contact" className="underline underline-offset-2 hover:no-underline">
-          Book Now →
-        </Link>
+        <a href={PHONE_HREF} className="underline underline-offset-2 hover:no-underline">
+          Call Now →
+        </a>
       </div>
 
       <header className="sticky top-0 z-50 bg-background border-b border-border">

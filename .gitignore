@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# original uncompressed PNGs (keep compressed JPEGs only)
+public/*.png

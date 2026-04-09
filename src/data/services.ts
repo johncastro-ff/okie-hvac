@@ -101,6 +101,8 @@ export const SERVICE_AREAS = [
 
 export const PHONE = "(405) 338-9194";
 export const PHONE_HREF = "tel:+14053389194";
+export const EMAIL = "Claytin@okiehvac.com";
+export const EMAIL_HREF = "mailto:Claytin@okiehvac.com";
 export const ADDRESS = "308 E Thomas Ave, Stillwater, OK";
 export const STREET_ADDRESS = "308 E Thomas Ave";
 export const CITY = "Stillwater";
