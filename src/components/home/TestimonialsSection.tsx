@@ -95,7 +95,7 @@ const TestimonialsSection = () => {
             </span>
           </div>
           <a
-            href="https://share.google/rzS8iyfhErOODQz4M"
+            href="https://share.google/41HZk2OS9GrHip5Ji"
             target="_blank"
             rel="noopener noreferrer"
             className="text-sm text-primary hover:underline font-medium"
