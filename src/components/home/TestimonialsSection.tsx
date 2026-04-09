@@ -2,20 +2,20 @@ import { Star } from "lucide-react";
 
 const reviews = [
   {
-    name: "[ First Name Last Initial ]",
-    text: "[ Paste real Google review quote here ]",
+    name: "Matthew D.",
+    text: "Without a doubt the best experience I have ever had with a home repair. They never tried to upsell us on a product that didn't meet our needs and recommended a less expensive replacement. On top of that they were willing to come back to make an adjustment that really didn't fall within what they \"had\" to do without an additional service cost.",
     rating: 5,
     location: "Stillwater, OK",
   },
   {
-    name: "[ First Name Last Initial ]",
-    text: "[ Paste real Google review quote here ]",
+    name: "Zachary E.",
+    text: "Had a great experience with these guys, and I would highly recommend them for their honesty and promptness. His techs that came out to do the work were kind and professional, and did a great job and were patient as we dealt with home owners insurance complications. Fantastic team and job well done!!!!",
     rating: 5,
-    location: "Perkins, OK",
+    location: "Stillwater, OK",
   },
   {
-    name: "[ First Name Last Initial ]",
-    text: "[ Paste real Google review quote here ]",
+    name: "Heather H.",
+    text: "They don't stop until the job is done completely to your satisfaction. They had a hard time getting it to sit correctly so they came back and tried to adjust it — and then planned on coming back again to fix it for good. Can't recommend enough.",
     rating: 5,
     location: "Stillwater, OK",
   },
